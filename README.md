@@ -12,9 +12,9 @@
 
 - 🌱 I’m currently learning **NextJS, Svelte, Angular, Laravel, C#, Golang, Python and Flutter**
 
-- 👨‍💻 All of my projects are available at [https://afekhidegbadamosi](https://afekhidegbadamosi)
+- 👨‍💻 All of my projects are available at [afekhidegbadamosi.com](https://afekhidegbadamosi.com)
 
-- 📝 I regularly write articles on [https://afekhidegbadamosi/blog](https://afekhidegbadamosi/blog)
+- 📝 I regularly write articles on [afekhidegbadamosi/blog](https://afekhidegbadamosi/blog)
 
 - 💬 Ask me about **VueJS, HTML, CSS, JavaScript and Figma**
 
