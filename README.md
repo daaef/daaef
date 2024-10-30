@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daaef&label=Profile%20views&color=0e75b6&style=flat" alt="daaef" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daaef" alt="daaef" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/da_aef" target="blank"><img src="https://img.shields.io/twitter/follow/da_aef?logo=twitter&style=for-the-badge" alt="da_aef" /></a> </p>
 
