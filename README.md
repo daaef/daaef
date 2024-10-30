@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [afekhidegbadamosi.com](https://afekhidegbadamosi.com)
 
-- 📝 I regularly write articles on [afekhidegbadamosi/blog](https://afekhidegbadamosi/blog)
+- 📝 I regularly write articles on [afekhidegbadamosi.com/blog](https://afekhidegbadamosi.com/blog)
 
 - 💬 Ask me about **VueJS, HTML, CSS, JavaScript and Figma**
 
